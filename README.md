@@ -24,4 +24,4 @@ Gera um arquivo CSV prontinho só para importar no Supabase.
 # Resultado:
 Consegui organizar mais de 500 contatos de uma vez só. Agora, cada telefone está vinculado ao ID certinho do cliente. Isso é fundamental para a minha próxima etapa: criar a automação que vai mandar mensagem avisando que o cashback expirou!
 No começo apanhei um pouco para os nomes que estavam diferentes nas duas planilhas, tive que ir testando e ajustando o script para funcionar.
-O script me economizou muito trabalho, em outro projeto não sabia como fazer o script e fiz limpeza em telefones manualmente para deixar no padrao 55.
+O script me economizou muito trabalho, em outro projeto não sabia como fazer o script e fiz limpeza em telefones manualmente para padronização no formato internacional (E.164) 
